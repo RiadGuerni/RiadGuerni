@@ -1,4 +1,4 @@
-## Hola 👋
+## Привет 👋
 # Welcome to My GitHub Profile
 I am an 18-year-old algerian student at USTHB with a passion for software development. My areas of expertise include:
 
